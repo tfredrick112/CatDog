@@ -1,1 +1,1 @@
-# CatDog
+# Cat vs Dog classifier
